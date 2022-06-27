@@ -6,7 +6,7 @@
 ```
 Metacello new
 	baseline: 'GFMorphTest';
-	repository: 'github://garlic-flavor/EmacsianInPharo/repository';
+	repository: 'github://garlic-flavor/MorphTest/repository';
 	load.
 ```
 
